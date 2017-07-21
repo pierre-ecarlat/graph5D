@@ -1,0 +1,57 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4531
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\TDx.TDxInput.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\TDx.TDxInput.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Ookii.Dialogs.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\Ookii.Dialogs.dll into Unity Child Domain
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\System.Windows.Forms.dll (this message is harmless)
+Loading C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\System.Windows.Forms.dll into Unity Child Domain
+- Completed reload, in  0.587 seconds
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pierre\Documents\graph_v4.6\graph_stereo_test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.694507 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2da8 -> priority: 1 
+  Thread -> id: 2364 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.464432 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1207.
+Total: 2.098500 ms (FindLiveObjects: 0.141981 ms CreateObjectMapping: 0.099643 ms MarkObjects: 1.713184 ms  DeleteObjects: 0.142408 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.717741 ms
+
+Unloading 101 unused Assets to reduce memory usage. Loaded Objects now: 872.
+Total: 1.717460 ms (FindLiveObjects: 0.126158 ms CreateObjectMapping: 0.103064 ms MarkObjects: 1.193583 ms  DeleteObjects: 0.293371 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.134423 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1223.
+Total: 4.548961 ms (FindLiveObjects: 0.496934 ms CreateObjectMapping: 0.212544 ms MarkObjects: 3.638057 ms  DeleteObjects: 0.197148 ms)
+

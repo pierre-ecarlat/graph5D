@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: a22345ee96c6942c9a98fa247e9503f0
+timeCreated: 1489996983
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1
+    100002: 10
+    100004: 11
+    100006: 12
+    100008: 13
+    100010: 14
+    100012: 15
+    100014: 16
+    100016: 2
+    100018: 3
+    100020: 4
+    100022: 5
+    100024: 6
+    100026: 7
+    100028: 8
+    100030: 9
+    100032: a
+    100034: a_1
+    100036: a_10
+    100038: a_11
+    100040: a_1_2
+    100042: a_2
+    100044: a_2_2
+    100046: a_2_3
+    100048: a_3
+    100050: a_3_2
+    100052: a_4
+    100054: a_5
+    100056: a_6
+    100058: a_7
+    100060: a_8
+    100062: a_9
+    100064: CINEMA_4D_Editor
+    100066: Cube_2
+    100068: root
+    100070: //RootNode
+    400000: 1
+    400002: 10
+    400004: 11
+    400006: 12
+    400008: 13
+    400010: 14
+    400012: 15
+    400014: 16
+    400016: 2
+    400018: 3
+    400020: 4
+    400022: 5
+    400024: 6
+    400026: 7
+    400028: 8
+    400030: 9
+    400032: a
+    400034: a_1
+    400036: a_10
+    400038: a_11
+    400040: a_1_2
+    400042: a_2
+    400044: a_2_2
+    400046: a_2_3
+    400048: a_3
+    400050: a_3_2
+    400052: a_4
+    400054: a_5
+    400056: a_6
+    400058: a_7
+    400060: a_8
+    400062: a_9
+    400064: CINEMA_4D_Editor
+    400066: Cube_2
+    400068: root
+    400070: //RootNode
+    4300000: Cube_2
+    7400000: tesseract anim
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube_2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: tesseract anim
+      takeName: Main
+      firstFrame: 0
+      lastFrame: 199
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CINEMA_4D_Editor
+        weight: 1
+      - path: Cube_2
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/a
+        weight: 1
+      - path: root/a/5
+        weight: 1
+      - path: root/a_1
+        weight: 1
+      - path: root/a_1/6
+        weight: 1
+      - path: root/a_1_2
+        weight: 1
+      - path: root/a_1_2/2
+        weight: 1
+      - path: root/a_2
+        weight: 1
+      - path: root/a_2/7
+        weight: 1
+      - path: root/a_2_2
+        weight: 1
+      - path: root/a_2_2/3
+        weight: 1
+      - path: root/a_2_3
+        weight: 1
+      - path: root/a_2_3/1
+        weight: 1
+      - path: root/a_3
+        weight: 1
+      - path: root/a_3/8
+        weight: 1
+      - path: root/a_3_2
+        weight: 1
+      - path: root/a_3_2/4
+        weight: 1
+      - path: root/a_4
+        weight: 1
+      - path: root/a_4/12
+        weight: 1
+      - path: root/a_5
+        weight: 1
+      - path: root/a_5/11
+        weight: 1
+      - path: root/a_6
+        weight: 1
+      - path: root/a_6/10
+        weight: 1
+      - path: root/a_7
+        weight: 1
+      - path: root/a_7/9
+        weight: 1
+      - path: root/a_8
+        weight: 1
+      - path: root/a_8/16
+        weight: 1
+      - path: root/a_9
+        weight: 1
+      - path: root/a_9/15
+        weight: 1
+      - path: root/a_10
+        weight: 1
+      - path: root/a_10/14
+        weight: 1
+      - path: root/a_11
+        weight: 1
+      - path: root/a_11/13
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
